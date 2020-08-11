@@ -1,0 +1,1932 @@
+%
+:{ 1TBS }: // n.
+
+The “One True Brace Style”; see {indent style}.
+%
+:{ abbrev }: /@·breev´/, /@·brev´/ n.
+
+Common abbreviation for ‘abbreviation’.
+%
+:{ adware }: n.
+
+Software which is free to download and use but includes pop-up banner ads somewhere. See also {-ware}.
+%
+:{ AI }: /A·I/ n.
+
+Abbreviation for ‘Artificial Intelligence’, so common that the full form is almost never written or spoken among hackers.
+%
+:{ alpha geek }: n.
+
+[from animal ethologists' alpha male] The most technically accomplished or skillful person in some implied context. “Ask Larry, he's the alpha geek here.”
+%
+:{ alpha particles }: n.
+
+See {bit rot}.
+%
+:{ alt bit }: /awlt bit/ adj.
+
+See {meta bit}.
+%
+:{ ambimouseterous }: /am·b@·mows´ter·us/ or /am·b@·mows´trus/ adj.
+
+[modeled on ambidextrous] Able to use a mouse with either hand.
+%
+:{ amp off }: vt.
+
+[Purdue] To run in {background}. From the Unix shell ‘&’ operator.
+%
+:{ amper }: n.
+
+Common abbreviation for the name of the ampersand (‘&’, ASCII 0100110) character. See {ASCII} for other synonyms.
+%
+:{ annoybot }: /@·noy·bot/ n.
+
+[IRC] See {bot}.
+%
+:{ armor-plated }: n.
+
+Syn. for {bulletproof}.
+%
+:{ AUP }: /A·U·P/
+
+Abbreviation, “Acceptable Use Policy”. The policy of a given ISP which sets out what the ISP considers to be (un)acceptable uses of its Internet resources.
+%
+:{ autobogotiphobia }: /aw´toh·boh·got`@·foh´bee·@/
+
+n. See {bogotify}.
+%
+:{ B5 }: //
+
+[common] Abbreviation for “Babylon 5”, a science-fiction TV series as revered among hackers as was the original Star Trek.
+%
+:{ backgammon }:
+
+See {bignum} (sense 3), {moby} (sense 4), and {pseudoprime}.
+%
+:{ BAD }: /B·A·D/ adj.
+
+[IBM: acronym, “Broken As Designed”] Said of a program that is {bogus} because of bad design and misfeatures rather than because of bugginess. See {working as designed}.
+%
+:{ banner ad }: n.
+
+Any of the annoying graphical advertisements that span the tops of way too many Web pages.
+%
+:{ barfmail }: n.
+
+Multiple {bounce message}s accumulating to the level of serious annoyance, or worse. The sort of thing that happens when an inter-network mail gateway goes down or wonky.
+%
+:{ barfulous }: /bar´fyoo·l@s/ adj.
+
+(alt.: barfucious, /bar-fyoo-sh@s/) Said of something that would make anyone barf, if only for esthetic reasons.
+%
+:{ beanie key }: n.
+
+[Mac users] See {command key}.
+%
+:{ beep }: n.,v.
+
+Syn. {feep}. This term is techspeak under MS-DOS/Windows and OS/2, and seems to be generally preferred among micro hobbyists.
+%
+:{ beige toaster }: n.
+
+[obs.] An original Macintosh in the boxy beige case. See {toaster}; compare {Macintrash}, {maggotbox}.
+%
+:{ bells whistles and gongs }: n.
+
+A standard elaborated form of {bells and whistles}; typically said with a pronounced and ironic accent on the ‘gongs’.
+%
+:{ BI }: //
+
+Common written abbreviation for {Breidbart Index}.
+%
+:{ bit decay }: n.
+
+See {bit rot}. People with a physics background tend to prefer this variant for the analogy with particle decay. See also {computron}, {quantum bogodynamics}.
+%
+:{ blargh }: /blarg/ n.
+
+[MIT; now common] The opposite of {ping}, sense 5; an exclamation indicating that one has absorbed or is emitting a quantum of unhappiness. Less common than {ping}.
+%
+:{ bletch }: /blech/ interj.
+
+[very common; from Yiddish/German ‘brechen’, to vomit, poss. via comic-strip exclamation ‘blech’] Term of disgust. Often used in “Ugh, bletch”. Compare {barf}.
+%
+:{ blow away }: vt.
+
+To remove (files and directories) from permanent storage, generally by accident. “He reformatted the wrong partition and blew away last night's netnews.” Oppose {nuke}.
+%
+:{ blow out }: vi.
+
+[prob.: from mining and tunneling jargon] Of software, to fail spectacularly; almost as serious as {crash and burn}. See {blow past}, {blow up}, {die horribly}.
+%
+:{ blow past }: vt.
+
+To {blow out} despite a safeguard. “The server blew past the 5K reserve buffer.”
+%
+:{ bodge }:
+
+[Commonwealth hackish] Syn. {kludge} or {hack} (sense 1). “I'll bodge this in now and fix it later”.
+%
+:{ bogometer }: /boh·gom'·@t·er/ n.
+
+A notional instrument for measuring {bogosity}. Compare the {Troll-O-Meter} and the ‘wankometer’ described in the {wank} entry; see also {bogus}.
+%
+:{ borken }: adj.
+
+(also borked) Common deliberate typo for ‘broken’.
+%
+:{ boxology }: /bok·sol'@·jee/ n.
+
+Syn. {ASCII art}. This term implies a more restricted domain, that of box-and-arrow drawings. “His report has a lot of boxology in it.” Compare {macrology}.
+%
+:{ brain fart }: n.
+
+The actual result of a {braino}, as opposed to the mental glitch that is the braino itself. E.g., typing dir on a Unix box after a session with DOS.
+%
+:{ braino }: /bray´no/ n.
+
+Syn. for {thinko}. See also {brain fart}.
+%
+:{ breedle }: n.
+
+See {feep}.
+%
+:{ BrokenWindows }: n.
+
+Abusive hackerism for the {crufty} and {elephantine} {X} environment on Sun machines; properly called ‘OpenWindows’.
+%
+:{ BRS }: /B·R·S/ n.
+
+Syn. {Big Red Switch}. This abbreviation is fairly common on-line.
+%
+:{ BSOD }: /B·S·O·D/
+
+Very common abbreviation for {Blue Screen of Death}. Both spoken and written.
+%
+:{ buffer chuck }: n.
+
+Shorter and ruder syn. for {buffer overflow}.
+%
+:{ bug-for-bug compatible }: n.
+
+Same as {bug-compatible}, with the additional implication that much tedious effort went into ensuring that each (known) bug was replicated.
+%
+:{ bump }: vt.
+
+Synonym for increment. Has the same meaning as C's ++ operator. Used esp. of counter variables, pointers, and index dummies in for, while, and do-while loops.
+%
+:{ burst page }: n.
+
+Syn. {banner}, sense 3.
+%
+:{ BWQ }: /B·W·Q/ n.
+
+[IBM: abbreviation, `Buzz Word Quotient'] The percentage of buzzwords in a speech or documents. Usually roughly proportional to {bogosity}. See {TLA}.
+%
+:{ byte sex }: n.
+
+[common] The byte sex of hardware is {big-endian} or {little-endian}; see those entries.
+%
+:{ calculator }: [Cambridge] n.
+
+Syn. for {bitty box}.
+%
+:{ camelCasing }:
+
+See {PascalCasing}.
+%
+:{ chanop }: /chan'·op/ n.
+
+[IRC] See {channel op}.
+%
+:{ char }: /keir/ or /char/; rarely, /kar/ n.
+
+Shorthand for ‘character’. Esp.: used by C programmers, as char is C's typename for character data.
+%
+:{ charityware }: /cha´rit·ee·weir`/ n.
+
+Syn. {careware}.
+%
+:{ cheerfully }: adv.
+
+See {happily}.
+%
+:{ Chernobyl chicken }: n.
+
+See {laser chicken}.
+%
+:{ Chinese Army technique }: n.
+
+Syn. {Mongolian Hordes technique}.
+%
+:{ chomper }: n.
+
+Someone or something that is chomping; a loser. See {loser}, {bagbiter}, {chomp}.
+%
+:{ CHOP }: /chop/ n.
+
+[IRC] See {channel op}.
+%
+:{ Christmas tree }: n.
+
+A kind of RS-232 line tester or breakout box featuring rows of blinking red and green LEDs suggestive of Christmas lights.
+%
+:{ chug }: vi.
+
+To run slowly; to {grind} or {grovel}. “The disk is chugging like crazy.”
+%
+:{ clobber }: vt.
+
+To overwrite, usually unintentionally: “I walked off the end of the array and clobbered the stack.” Compare {mung}, {scribble}, {trash}, and {smash the stack}.
+%
+:{ clone-and-hack coding }: n.
+
+[DEC] Syn. {case and paste}.
+%
+:{ clover key }: n.
+
+[Mac users] See {feature key}.
+%
+:{ clustergeeking }: /kluh´st@r·gee`king/ n.
+
+[CMU] Spending more time at a computer cluster doing CS homework than most people spend breathing.
+%
+:{ coaster toaster }:
+
+A writer for recordable CD-Rs, especially cheap IDE models that tend to produce a high proportion of {coaster}s.
+%
+:{ cobweb site }: n.
+
+A World Wide Web Site that hasn't been updated so long it has figuratively grown cobwebs.
+%
+:{ Code of the Geeks }: n.
+
+see {geek code}.
+%
+:{ cold boot }: n.
+
+See {boot}.
+%
+:{ comm mode }: /kom mohd/ n.
+
+[ITS: from the feature supporting on-line chat; the first word may be spelled with one or two m's] Syn. for {talk mode}.
+%
+:{ command key }: n.
+
+[Mac users] Syn. {feature key}.
+%
+:{ compiler jock }: n.
+
+See {jock} (sense 2).
+%
+:{ Compu$erve }: n.
+
+See {CI$}. Synonyms CompuSpend and Compu$pend are also reported.
+%
+:{ confuser }: n.
+
+Common soundalike slang for ‘computer’. Usually encountered in compounds such as confuser room, personal confuser, confuser guru. Usage: silly.
+%
+:{ console jockey }: n.
+
+See {terminal junkie}.
+%
+:{ control-Q }: vi.
+
+“Resume.” From the ASCII DC1 or {XON} character (the pronunciation /X-on/ is therefore also used), used to undo a previous {control-S}.
+%
+:{ copper }: n.
+
+Conventional electron-carrying network cable with a core conductor of copper — or aluminum! Opposed to {light pipe} or, say, a short-range microwave link.
+%
+:{ copy protection }: n.
+
+A class of methods for preventing incompetent pirates from stealing software and legitimate customers from using it. Considered silly.
+%
+:{ copywronged }: /kop´ee·rongd/ adj.
+
+[play on copyright] Syn. for {copybroke}.
+%
+:{ core cancer }: n.
+
+[rare] A process that exhibits a slow but inexorable resource {leak} — like a cancer, it kills by crowding out productive tissue.
+%
+:{ core leak }: n.
+
+Syn. {memory leak}.
+%
+:{ cowboy }: n.
+
+[Sun, from William Gibson's {cyberpunk} SF] Synonym for {hacker}. It is reported that at Sun this word is often said with reverence.
+%
+:{ crack root }: v.
+
+[very common] To defeat the security system of a Unix machine and gain {root} privileges thereby; see {cracking}.
+%
+:{ crapplet }: n.
+
+[portmanteau, crap + applet] A worthless applet, esp. a Java widget attached to a web page that doesn't work or even crashes your browser. Also spelled ‘craplet’.
+%
+:{ creep }: v.
+
+To advance, grow, or multiply inexorably. In hackish usage this verb has overtones of menace and silliness, evoking the creeping horrors of low-budget monster movies.
+%
+:{ cruftsmanship }: /kruhfts´m@n·ship / n.
+
+[from {cruft}] The antithesis of craftsmanship.
+%
+:{ crumb }: n.
+
+Two binary digits; a {quad}. Larger than a {bit}, smaller than a {nybble}. Considered silly. Syn. {tayste}. General discussion of such terms is under {nybble}.
+%
+:{ cryppie }: /krip´ee/ n.
+
+A cryptographer. One who hacks or implements cryptographic software or hardware.
+%
+:{ cycle of reincarnation }: n.
+
+See {wheel of reincarnation}.
+%
+:{ day mode }: n.
+
+See {phase} (sense 1). Used of people only.
+%
+:{ dead-tree version }:
+
+[common] A paper version of an on-line document; one printed on dead trees. In this context, “dead trees” always refers to paper. See also {tree-killer}.
+%
+:{ deep hack mode }: n.
+
+See {hack mode}.
+%
+:{ defined as }: adj.
+
+In the role of, usually in an organization-chart sense. “Pete is currently defined as bug prioritizer.” Compare {logical}.
+%
+:{ dehose }: /dee·hohz/ vt.
+
+To clear a {hosed} condition.
+%
+:{ Dejagoo }:
+
+[Portmanteau of Dejanews and Google] Google newsgroups. Became common in 2001 after Google acquired Dejanews, and with it the largest on-line archive of Usenet postings.
+%
+:{ despew }: /d@·spyoo´/ v.
+
+[Usenet] To automatically generate a large amount of garbage to the net, esp. from an automated posting program gone wild. See {ARMM}.
+%
+:{ die }: v.
+
+Syn. {crash}. Unlike {crash}, which is used primarily of hardware, this verb is used of both hardware and software. See also {go flatline}, {casters-up mode}.
+%
+:{ die horribly }: v.
+
+The software equivalent of {crash and burn}, and the preferred emphatic form of {die}. “The converter choked on an FF in its input and died horribly”.
+%
+:{ disemvowel }: v.
+
+[USENET: play on ‘disembowel’] Less common synonym for {splat out}.
+%
+:{ distro }: n.
+
+Synonym for {distribution}, sense 1.
+%
+:{ doc }: /dok/ n.
+
+Common spoken and written shorthand for ‘documentation’. Often used in the plural docs and in the construction doc file (i.e., documentation available on-line).
+%
+:{ dodgy }: adj.
+
+Syn. with {flaky}. Preferred outside the U.S.
+%
+:{ DPer }: /dee·pee·er/ n.
+
+Data Processor. Hackers are absolutely amazed that {suit}s use this term self-referentially. Computers process data, not people! See {DP}.
+%
+:{ drain }: v.
+
+[IBM] Syn. for {flush} (sense 2). Has a connotation of finality about it; one speaks of draining a device before taking it offline.
+%
+:{ dub dub dub }:
+
+[common] Spoken-only shorthand for the “www” (double-u double-u double-u) in many web host names. Nothing to do with the style of reggae music called ‘dub’.
+%
+:{ dynner }: /din´r/ n.
+
+32 bits, by analogy with {nybble} and {byte}. Usage: rare and extremely silly. See also {playte}, {tayste}, {crumb}. General discussion of such terms is under {nybble}.
+%
+:{ ECP }: /E·C·P/ n.
+
+See {spam} and {velveeta}.
+%
+:{ egosurf }: vi.
+
+To search the net for your name or links to your web pages. Perhaps connected to long-established SF-fan slang egoscan, to search for one's name in a fanzine.
+%
+:{ EMP }: /E·M·P/
+
+See {spam}.
+%
+:{ EOD }: n.
+
+[IRC, Usenet] Abbreviation: End of Discussion. Used when the speaker believes he has stated his case and will not respond to further arguments or attacks.
+%
+:{ eurodemo }: /yoor´o·dem`·o/
+
+a {demo}, sense 4
+%
+:{ exa- }: /ek´s@/ pref.
+
+[SI] See {quantifiers}.
+%
+:{ excl }: /eks´kl/ n.
+
+Abbreviation for ‘exclamation point’. See {bang}, {shriek}, {ASCII}.
+%
+:{ face time }: n.
+
+[common] Time spent interacting with somebody face-to-face (as opposed to via electronic links). “Oh, yeah, I spent some face time with him at the last Usenix.”
+%
+:{ factor }: n.
+
+See {coefficient of X}.
+%
+:{ fall over }: vi.
+
+[IBM] Yet another synonym for {crash} or {lose}. ‘Fall over hard’ equates to {crash and burn}.
+%
+:{ FAQ list }: /F·A·Q list/ or /fak list/ n.
+
+[common; Usenet] Syn {FAQ}, sense 2.
+%
+:{ FAQL }: /fa´kl/ n.
+
+Syn. {FAQ list}.
+%
+:{ faulty }: adj.
+
+Non-functional; buggy. Same denotation as {bletcherous}, {losing}, q.v., but the connotation is much milder.
+%
+:{ feature creep }: n.
+
+[common] The result of {creeping featurism}, as in “Emacs has a bad case of feature creep”.
+%
+:{ feature shock }: n.
+
+[from Alvin Toffler's book title Future Shock] A user's (or programmer's!) confusion when confronted with a package that has too many features and poor introductory material.
+%
+:{ feeper }: /fee´pr/ n.
+
+The device in a terminal or workstation (usually a loudspeaker of some kind) that makes the {feep} sound.
+%
+:{ feeping creature }: n.
+
+[from {feeping creaturism}] An unnecessary feature; a bit of {chrome} that, in the speaker's judgment, is the camel's nose for a whole horde of new features.
+%
+:{ field servoid }: /fee´ld ser´voyd/ n.
+
+[play on ‘android’] Representative of a field service organization (see {field circus}). This has many of the implications of {droid}.
+%
+:{ file signature }: n.
+
+A {magic number}, sense 3.
+%
+:{ fine }: adj.
+
+[WPI] Good, but not good enough to be {cuspy}. The word fine is used elsewhere, of course, but without the implicit comparison to the higher level implied by {cuspy}.
+%
+:{ FITNR }: // adj.
+
+[Thinking Machines, Inc.] Fixed In The Next Release. A written-only notation attached to bug reports. Often wishful thinking.
+%
+:{ fix }: n.,v.
+
+What one does when a problem has been reported too many times to be ignored.
+%
+:{ flame bait }: n.
+
+[common] A posting intended to trigger a {flame war}, or one that invites flames in reply. See also {troll}.
+%
+:{ flame war }: n.
+
+[common] (var.: flamewar) An acrimonious dispute, especially when conducted on a public electronic forum such as {Usenet}.
+%
+:{ flamer }: n.
+
+[common] One who habitually {flame}s. Said esp. of obnoxious {Usenet} personalities.
+%
+:{ flavorful }: adj.
+
+Full of {flavor} (sense 2); esthetically pleasing. See {random} and {losing} for antonyms. See also the entries for {taste} and {elegant}.
+%
+:{ flower key }: n.
+
+[Mac users] See {feature key}.
+%
+:{ flypage }: /fli:´payj/ n.
+
+(alt.: fly page) A {banner}, sense 1.
+%
+:{ Flyspeck 3 }: n.
+
+Standard name for any font that is so tiny as to be unreadable (by analogy with names like Helvetica 10 for 10-point Helvetica). Legal boilerplate is usually printed in Flyspeck 3.
+%
+:{ flytrap }: n.
+
+[rare] See {firewall machine}.
+%
+:{ fora }: pl.n.
+
+Plural of {forum}.
+%
+:{ fragile }: adj.
+
+Syn {brittle}.
+%
+:{ frednet }: /fred´net/ n.
+
+Used to refer to some {random} and uncommon protocol encountered on a network. “We're implementing bridging in our router to solve the frednet problem.”
+%
+:{ friode }: /fri:´ohd/ n.
+
+[TMRC] A reversible (that is, fused or blown) diode. Compare {fried}; see also {SED}, {LER}.
+%
+:{ frowney }: n.
+
+(alt.: frowney face) See {emoticon}.
+%
+:{ FSF }: /F·S·F/ abbrev.
+
+Common abbreviation (both spoken and written) for the name of the Free Software Foundation, a nonprofit educational association formed to support the {GNU} project.
+%
+:{ FUBAR }: n.
+
+The Failed UniBus Address Register in a {VAX}. A good example of how jargon can occasionally be snuck past the {suit}s; see {foobar}, and {foo} for a fuller etymology.
+%
+:{ fuel up }: vi.
+
+To eat or drink hurriedly in order to get back to hacking. “Food-p?” “Yeah, let's fuel up.” “Time for a {great-wall}!” See also {oriental food}.
+%
+:{ Full Monty }: n.
+
+See {monty}, sense 2.
+%
+:{ fum }: n.
+
+[XEROX PARC] At PARC, often the third of the standard {metasyntactic variable}s (after {foo} and {bar}). Competes with {baz}, which is more common outside PARC.
+%
+:{ garbage collect }: vi.
+
+(also garbage collection, n.) See {GC}.
+%
+:{ garply }: /gar´plee/ n.
+
+[Stanford] Another metasyntactic variable (see {foo}); once popular among SAIL hackers.
+%
+:{ gawble }: /gaw´bl/ n.
+
+See {chawmp}.
+%
+:{ GECOS }: /jee´kohs/ n.
+
+See {GCOS}.
+%
+:{ geef }: v.
+
+[ostensibly from ‘gefingerpoken’] vt. Syn. {mung}. See also {blinkenlights}.
+%
+:{ gen }: /jen/ n.,v.
+
+Short for {generate}, used frequently in both spoken and written contexts.
+%
+:{ gig }: /jig/ or /gig/ n.
+
+[SI] See {quantifiers}.
+%
+:{ giga- }: /ji´ga/ or /gi´ga/ pref.
+
+[SI] See {quantifiers}.
+%
+:{ ginger }: n.
+
+See {saga}.
+%
+:{ GIPS }: /gips/ or /jips/ n.
+
+[analogy with {MIPS}] Giga-Instructions per Second (also possibly ‘Gillions of Instructions per Second’; see {gillion}). Compare {KIPS}.
+%
+:{ glass }: n.
+
+[IBM] Synonym for {silicon}.
+%
+:{ glassfet }: /glas´fet/ n.
+
+[by analogy with MOSFET, the acronym for Metal-Oxide-Semiconductor Field-Effect Transistor] Syn. {firebottle}, a humorous way to refer to a vacuum tube.
+%
+:{ gnarly }: /nar´lee/ adj.
+
+Both {obscure} and {hairy} (sense 1). “{Yow!} — the tuned assembler implementation of BitBlt is really gnarly!” From a similar but less specific usage in surfer slang.
+%
+:{ gnubie }: /noo´bee/ n.
+
+Written-only variant of {newbie} in common use on IRC channels, which implies specifically someone who is new to the Linux/open-source/free-software world.
+%
+:{ go gold }: v.
+
+[common] See {golden}.
+%
+:{ go root }: vi.
+
+[Unix; common] To temporarily enter {root mode} in order to perform a privileged operation. This use is deprecated in Australia, where v. ‘root’ is a synonym for “fuck”.
+%
+:{ go-faster stripes }: n.
+
+[UK] Syn. {chrome}. Mainstream in some parts of UK.
+%
+:{ GoAT }: //
+
+[Usenet] Abbreviation: “Go Away, Troll”. See {troll}.
+%
+:{ gorp }: /gorp/ n.
+
+[CMU: perhaps from the canonical hiker's food, Good Old Raisins and Peanuts] Another {metasyntactic variable}, like {foo} and {bar}.
+%
+:{ GPL }: /G·P·L/ n.
+
+Abbreviation for ‘General Public License’ in widespread use; see {copyleft}, {General Public Virus}. Often mis-expanded as ‘GNU Public License’.
+%
+:{ GPV }: /G·P·V/ n.
+
+Abbrev. for {General Public Virus} in widespread use.
+%
+:{ gray hat }:
+
+See {black hat}.
+%
+:{ gronk out }: vi.
+
+To cease functioning. Of people, to go home and go to sleep. “I guess I'll gronk out now; see you all tomorrow.”
+%
+:{ gunch }: /guhnch/ vt.
+
+[TMRC] To push, prod, or poke at a device that has almost (but not quite) produced the desired result. Implies a threat to {mung}.
+%
+:{ gunpowder chicken }: n.
+
+Same as {laser chicken}.
+%
+:{ hack on }: vt.
+
+[very common] To {hack}; implies that the subject is some pre-existing hunk of code that one is evolving, as opposed to something one might {hack up}.
+%
+:{ hack together }: vt.
+
+[common] To throw something together so it will work. Unlike kluge together or {cruft together}, this does not necessarily have negative connotations.
+%
+:{ hackishness }: n.
+
+The quality of being or involving a hack. This term is considered mildly silly. Syn. {hackitude}.
+%
+:{ hackitude }: n.
+
+Syn. {hackishness}; this word is considered sillier.
+%
+:{ ham }:
+
+The opposite of {spam}, sense 3; that is, incoming mail that the user actually wants to see.
+%
+:{ hammer }: vt.
+
+Commonwealth hackish syn. for {bang on}.
+%
+:{ HAND }: //
+
+[Usenet: very common] Abbreviation: Have A Nice Day. Typically used to close a {Usenet} posting, but also used to informally close emails; often preceded by {HTH}.
+%
+:{ hand cruft }: vt.
+
+[pun on ‘hand craft’] See {cruft}, sense 3.
+%
+:{ hard boot }: n.
+
+See {boot}.
+%
+:{ hat }: n.
+
+Common (spoken) name for the circumflex (‘^’, ASCII 1011110) character. See {ASCII} for other synonyms.
+%
+:{ heavy metal }: n.
+
+[Cambridge] Syn. {big iron}.
+%
+:{ Hed Rat }:
+
+Unflattering spoonerism of Red Hat, a popular {Linux} distribution. Compare {Macintrash}. {sun-stools}, {HP-SUX}, {Slowlaris}.
+%
+:{ hell desk }:
+
+Common mispronunciation of ‘help desk’, especially among people who have to answer phones at one.
+%
+:{ hello, wall! }: excl.
+
+See {wall}.
+%
+:{ HHOK }:
+
+See {ha ha only serious}.
+%
+:{ HHOS }:
+
+See {ha ha only serious}.
+%
+:{ hing }: // n.
+
+[IRC] Fortuitous typo for ‘hint’, now in wide intentional use among players of {initgame}. Compare {newsfroup}, {filk}.
+%
+:{ hired gun }: n.
+
+A contract programmer, as opposed to a full-time staff member. All the connotations of this term suggested by innumerable spaghetti Westerns are intentional.
+%
+:{ hirsute }: adj.
+
+Occasionally used humorously as a synonym for {hairy}.
+%
+:{ hoarding }: n.
+
+See {software hoarding}.
+%
+:{ home box }: n.
+
+A hacker's personal machine, especially one he or she owns. “Yeah? Well, my home box runs a full 4.4 BSD, so there!”
+%
+:{ hot chat }: n.
+
+Sexually explicit one-on-one chat. See {teledildonics}.
+%
+:{ HTH }: //
+
+[Usenet: very common] Abbreviation: Hope This Helps (e.g. following a response to a technical question). Often used just before {HAND}. See also {YHBT}.
+%
+:{ huff }: v.
+
+To compress data using a Huffman code. Various programs that use such methods have been called ‘HUFF’ or some variant thereof. Oppose {puff}. Compare {crunch}, {compress}.
+%
+:{ hungry puppy }: n.
+
+Syn. {slopsucker}.
+%
+:{ IANAL }: //
+
+[Usenet] Abbreviation, “I Am Not A Lawyer”. Usually precedes legal advice.
+%
+:{ IDP }: /I·D·P/ v.,n.
+
+[Usenet] Abbreviation for {Internet Death Penalty}. Common (probably now more so than the full form), and frequently verbed. Compare {UDP}.
+%
+:{ ifdef out }: /if´def owt/ v.
+
+Syn. for {condition out}, specific to {C}.
+%
+:{ IIRC }: //
+
+Common abbreviation for “If I Recall Correctly”.
+%
+:{ in the extreme }: adj.
+
+A preferred superlative suffix for many hackish terms. See, for example, obscure in the extreme under {obscure}, and compare {highly}.
+%
+:{ index of X }: n.
+
+See {coefficient of X}.
+%
+:{ inflate }: vt.
+
+To decompress or {puff} a file. Rare among Internet hackers, used primarily by MS-DOS/Windows types.
+%
+:{ InterCaps }:
+
+[Great Britain] Synonym for {BiCapitalization}.
+%
+:{ Internet Exploder }:
+
+[very common] Pejorative hackerism for Microsoft's “Internet Explorer” web browser (also “Internet Exploiter”). Compare {HP-SUX}, {Macintrash}, {sun-stools}, {Slowlaris}.
+%
+:{ intertwingled }:
+
+adj. [Invented by Theodor Holm Nelson, prob. a blend of “mingled” and “intertwined”.] Connected together in a complex way; specifically, composed of one another's components.
+%
+:{ ironmonger }: n.
+
+[IBM] A hardware specialist (derogatory). Compare {sandbender}, {polygon pusher}.
+%
+:{ IWBNI }: //
+
+Abbreviation for ‘It Would Be Nice If’. Compare {WIBNI}.
+%
+:{ IYFEG }: //
+
+[Usenet] Abbreviation for ‘Insert Your Favorite Ethnic Group’. Used as a meta-name when telling ethnic jokes on the net to avoid offending anyone. See {JEDR}.
+%
+:{ jaggies }: /jag´eez/ n.
+
+The ‘stairstep’ effect observable when an edge (esp. a linear edge of very shallow or steep slope) is rendered on a pixel device (as opposed to a vector display).
+%
+:{ Jeopardy-style quoting }:
+
+See {top-post}.
+%
+:{ jump off into never-never land }: v.
+
+[from J. M. Barrie's Peter Pan] An unexpected jump in a program that produces catastrophic or just plain weird results. Compare {hyperspace}.
+%
+:{ K }: /K/ n.
+
+[from {kilo-}] A kilobyte. Used both as a spoken word and a written suffix (like {meg} and {gig} for megabyte and gigabyte). See {quantifiers}.
+%
+:{ kahuna }: /k@·hoo´n@/ n.
+
+[IBM: from the Hawaiian title for a shaman] Synonym for {wizard}, {guru}.
+%
+:{ kangaroo code }: n.
+
+Syn. {spaghetti code}.
+%
+:{ kgbvax }: /K·G·B´vaks/ n.
+
+See {kremvax}.
+%
+:{ kiboze }: v.
+
+[Usenet] To {grep} the Usenet news for a string, especially with the intention of posting a follow-up. This activity was popularised by Kibo (see {KIBO}, sense 2).
+%
+:{ kibozo }: /ki:·boh´zoh/ n.
+
+[Usenet] One who {kiboze}s but is not Kibo (see {KIBO}, sense 2).
+%
+:{ kilo- }: pref.
+
+[SI] See {quantifiers}.
+%
+:{ KIPS }: /kips/ n.
+
+[abbreviation, by analogy with {MIPS} using {K}] Thousands (not 1024s) of Instructions Per Second. Usage: rare.
+%
+:{ KLB }: n.
+
+[common among Perl hackers] Known Lazy Bastard. Used to describe somebody who perpetually asks questions which are easily answered by referring to the reference material or manual.
+%
+:{ klone }: /klohn/ n.
+
+See {clone}, sense 4.
+%
+:{ kluge around }: vt.
+
+To avoid a bug or difficult condition by inserting a {kluge}. Compare {workaround}.
+%
+:{ kyrka }: /chur´ka/ n.
+
+[Swedish] See {feature key}.
+%
+:{ lase }: /layz/ vt.
+
+To print a given document via a laser printer. “OK, let's lase that sucker and see if all those graphics-macro calls did the right things.”
+%
+:{ leaky heap }: n.
+
+[Cambridge] An {arena} with a {memory leak}.
+%
+:{ LERP }: /lerp/ vi.,n.
+
+Quasi-acronym for Linear Interpolation, used as a verb or noun for the operation. “Bresenham's algorithm lerps incrementally between the two endpoints of the line.”
+%
+:{ let the smoke out }: v.
+
+To fry hardware (see {fried}). See {magic smoke} for a discussion of the underlying mythology.
+%
+:{ light pipe }: n.
+
+Fiber optic cable. Oppose {copper}.
+%
+:{ lightweight }: adj.
+
+Opposite of {heavyweight}; usually found in combining forms such as lightweight process.
+%
+:{ link rot }: n.
+
+The natural decay of web links as the sites they're connected to change or die. Compare {bit rot}.
+%
+:{ Linus }: /leen´us/ or /lin´us/, not /li:´nus/
+
+Linus Torvalds, the author of {Linux}. Nobody in the hacker culture has been as readily recognized by first name alone since {ken}.
+%
+:{ locked up }: adj.
+
+Syn. for {hung}, {wedged}.
+%
+:{ lord high fixer }: n.
+
+[primarily British, from Gilbert & Sullivan's ‘lord high executioner’] The person in an organization who knows the most about some aspect of a system. See {wizard}.
+%
+:{ lose lose }: interj.
+
+A reply to or comment on an undesirable situation. “I accidentally deleted all my files!” “Lose, lose.”
+%
+:{ losing }: adj.
+
+Said of anything that is or causes a {lose} or {lossage}. “The compiler is losing badly when I try to use templates.”
+%
+:{ Lubarsky's Law of Cybernetic Entomology }: prov.
+
+“There is always one more bug.”
+%
+:{ lunatic fringe }: n.
+
+[IBM] Customers who can be relied upon to accept release 1 versions of software. Compare {heatseeker}.
+%
+:{ M }: pref. (on units) suff. (on numbers)
+
+[SI] See {quantifiers}.
+%
+:{ M$ }:
+
+Common net abbreviation for Microsoft, everybody's least favorite monopoly.
+%
+:{ Macintoy }: /mak´in·toy/ n.
+
+The Apple Macintosh, considered as a {toy}. Less pejorative than {Macintrash}.
+%
+:{ maggotbox }: /mag'@t·boks/ n.
+
+See {Macintrash}. This is even more derogatory.
+%
+:{ main loop }: n.
+
+The top-level control flow construct in an input- or event-driven program, the one which receives and acts or dispatches on the program's input. See also {driver}.
+%
+:{ malware }: n.
+
+[Common] Malicious software. Software intended to cause consequences the unwitting user would not choose; especially used of {virus} or {Trojan horse} software.
+%
+:{ mangler }: n.
+
+[DEC] A manager. Compare {management}. Note that {system mangler} is somewhat different in connotation.
+%
+:{ marching ants }:
+
+The animated dotted-line marquee that indicates a rectangle or item select in Adobe Photoshop, the GIMP, and other similar image-editing programs.
+%
+:{ marginally }: adv.
+
+Slightly. “The ravs here are only marginally better than at Small Eating Place.” See {epsilon}.
+%
+:{ meatware }: n.
+
+Synonym for {wetware}. Less common.
+%
+:{ meg }: /meg/ n.
+
+See {quantifiers}.
+%
+:{ mega- }: /me´g@/ pref.
+
+[SI] See {quantifiers}.
+%
+:{ megapenny }: /meg'@·pen`ee/ n.
+
+$10,000 (1 cent * 10^6). Used semi-humorously as a unit in comparing computer cost and performance figures.
+%
+:{ meltdown, network }: n.
+
+See {network meltdown}.
+%
+:{ memory farts }: n.
+
+The flatulent sounds that some DOS box BIOSes (most notably AMI's) make when checking memory on bootup.
+%
+:{ mickey }: n.
+
+The resolution unit of mouse movement. It has been suggested that the disney will become a benchmark unit for animation graphics performance.
+%
+:{ microReid }: /mi:´kroh·reed/ n.
+
+See {microLenat}.
+%
+:{ middle-out implementation }:
+
+See {bottom-up implementation}.
+%
+:{ missile address }: n.
+
+See {ICBM address}.
+%
+:{ mobo }: /moh´bo/
+
+Written and (rarely) spoken contraction of “motherboard”
+%
+:{ monkey, scratch }: n.
+
+See {scratch monkey}.
+%
+:{ MOTAS }: /moh·tahz/ n.
+
+[Usenet: Member Of The Appropriate Sex, after {MOTOS} and {MOTSS}] A potential or (less often) actual sex partner. See also {SO}.
+%
+:{ mouse belt }: n.
+
+See {rat belt}.
+%
+:{ mouso }: /mow´soh/ n.
+
+[by analogy with ‘typo’] An error in mouse usage resulting in an inappropriate selection or graphic garbage on the screen. Compare {thinko}, {braino}.
+%
+:{ muddie }: n.
+
+Syn. {mudhead}. More common in Great Britain, possibly because system administrators there like to mutter “bloody muddies” when annoyed at the species.
+%
+:{ munching }: n.
+
+Exploration of security holes of someone else's computer for thrills, notoriety, or to annoy the system manager. Compare {cracker}. See also {hacked off}.
+%
+:{ mutter }: vt.
+
+To quietly enter a command not meant for the ears, eyes, or fingers of ordinary mortals. Often used in “mutter an {incantation}”. See also {wizard}.
+%
+:{ nailed to the wall }: adj.
+
+[like a trophy] Said of a bug finally eliminated after protracted, and even heroic, effort.
+%
+:{ nailing jelly }: vi.
+
+See {like nailing jelly to a tree}.
+%
+:{ naive user }: n.
+
+A {luser}. Tends to imply someone who is ignorant mainly owing to inexperience. When this is applied to someone who has experience, there is a definite implication of stupidity.
+%
+:{ nanobot }: /nan´oh·bot/ n.
+
+A robot of microscopic proportions, presumably built by means of {nanotechnology}. As yet, only used informally (and speculatively!). Also called a nanoagent.
+%
+:{ narg }:
+
+[Cambridge] Short for “Not A Real Gentleman”, i.e. one who excessively talks shop out of hours.
+%
+:{ nature }: n.
+
+See {has the X nature}.
+%
+:{ netdead }: n.
+
+[IRC] The state of someone who signs off {IRC}, perhaps during a {netburp}, and doesn't sign back on until later. In the interim, he is “dead to the net”. Compare {link-dead}.
+%
+:{ netsplit }: n.
+
+Syn. {netburp}.
+%
+:{ night mode }: n.
+
+See {phase} (of people).
+%
+:{ nyetwork }: /nyet´werk/ n.
+
+[from Russian ‘nyet’ = no] A network, when it is acting {flaky} or is {down}. Compare {notwork}.
+%
+:{ offline }: adv.
+
+Not now or not here. “Let's take this discussion offline.” Specifically used on {Usenet} to suggest that a discussion be moved off a public newsgroup to email.
+%
+:{ Old Testament }: n.
+
+[C programmers] The first edition of {K&R}, the sacred text describing {Classic C}.
+%
+:{ OP }: //
+
+[Usenet; common] Abbreviation for “original poster”, the originator of a particular thread.
+%
+:{ open switch }: n.
+
+[IBM: prob.: from railroading] An unresolved question, issue, or problem.
+%
+:{ operator headspace }:
+
+[common] More fully, “operator headspace error”. Synonym for {pilot error} — a dumb move, especially one pulled by someone who ought to know better. Often used reflexively.
+%
+:{ optical diff }: n.
+
+See {vdiff}.
+%
+:{ optical grep }: n.
+
+See {vgrep}.
+%
+:{ orphan }: n.
+
+[Unix] A process whose parent has died; one inherited by init(1). Compare {zombie}.
+%
+:{ OTOH }: //
+
+[Usenet; very common] On The Other Hand.
+%
+:{ pain in the net }: n.
+
+A {flamer}.
+%
+:{ param }: /p@·ram´/ n.
+
+[common] Shorthand for parameter. See also {parm}; compare {arg}, {var}.
+%
+:{ PARC }: n.
+
+See {XEROX PARC}.
+%
+:{ parent message }: n.
+
+What a {followup} follows up.
+%
+:{ payware }: /pay´weir/ n.
+
+Commercial software. Oppose {shareware} or {freeware}.
+%
+:{ Pentagram Pro }: n.
+
+A humorous corruption of “Pentium Pro”, with a Satanic reference, implying that the chip is inherently {evil}. Often used with “666 MHz”; there is a T-shirt. See {Pentium}
+%
+:{ peon }: n.
+
+A person with no special ({root} or {wheel}) privileges on a computer system. “I can't create an account on foovax for you; I'm only a peon there.”
+%
+:{ peta- }: /pe´t@/ pref
+
+[SI] See {quantifiers}.
+%
+:{ PFY }: n.
+
+[Usenet; common, originally from the {BOFH} mythos] Abbreviation for Pimply-Faced Youth. A {BOFH} in training, esp. one apprenticed to an elder BOFH aged in evil.
+%
+:{ phase-wrapping }: n.
+
+[MIT] Syn. {wrap around}, sense 2.
+%
+:{ PHB }: /P·H·B/
+
+[Usenet; common; rarely spoken] Abbreviation, “Pointy-Haired Boss”. From the {Dilbert} character, the archetypal halfwitted middle-{management} type. See also {pointy-haired}.
+%
+:{ phreaker }: /freek´r/ n.
+
+One who engages in {phreaking}. See also {blue box}.
+%
+:{ pistol }: n.
+
+[IBM] A tool that makes it all too easy for you to shoot yourself in the foot. “Unix ‘rm *’ makes such a nice pistol!”
+%
+:{ plain-ASCII }: /playn·as´kee/
+
+Syn. {flat-ASCII}.
+%
+:{ playpen }: n.
+
+[IBM] A room where programmers work. Compare {salt mines}.
+%
+:{ playte }: /playt/
+
+16 bits, by analogy with {nybble} and {byte}. Usage: rare and extremely silly. See also {dynner} and {crumb}. General discussion of such terms is under {nybble}.
+%
+:{ plugh }: /ploogh/ v.
+
+[from the {ADVENT} game] See {xyzzy}.
+%
+:{ poke }: n.,vt.
+
+See {peek}.
+%
+:{ polygon pusher }: n.
+
+A chip designer who spends most of his or her time at the physical layout level (which requires drawing lots of multi-colored polygons). Also rectangle slinger.
+%
+:{ POM }: /P·O·M/ n.
+
+Common abbreviation for {phase of the moon}. Usage: usually in the phrase POM-dependent, which means {flaky}.
+%
+:{ post }: v.
+
+To send a message to a {mailing list} or {newsgroup}. Distinguished in context from mail; one might ask, for example: “Are you going to post the patch or mail it to known users?”
+%
+:{ pound on }: vt.
+
+Syn. {bang on}.
+%
+:{ power hit }: n.
+
+A spike or drop-out in the electricity supplying your machine; a power {glitch}. These can cause crashes and even permanent damage to your machine(s).
+%
+:{ pretzel key }: n.
+
+[Mac users] See {feature key}.
+%
+:{ printing discussion }: n.
+
+[XEROX PARC] A protracted, low-level, time-consuming, generally pointless discussion of something only peripherally interesting to all.
+%
+:{ Programmer's Cheer }:
+
+“Shift to the left! Shift to the right! Pop up, push down! Byte! Byte! Byte!” A joke so old it has hair on it.
+%
+:{ propeller key }: n.
+
+[Mac users] See {feature key}.
+%
+:{ psychedelicware }: /si:`k@·del'·ik·weir/ n.
+
+[UK] Syn. {display hack}. See also {smoking clover}.
+%
+:{ pumpkin holder }: n.
+
+See {patch pumpkin}.
+%
+:{ pumpking }: n.
+
+Syn. for {pumpkin holder}; see {patch pumpkin}.
+%
+:{ quotient }: n.
+
+See {coefficient of X}.
+%
+:{ rabbit job }: n.
+
+[Cambridge] A batch job that does little, if any, real work, but creates one or more copies of itself, breeding like rabbits. Compare {wabbit}, {fork bomb}.
+%
+:{ raster burn }: n.
+
+Eyestrain brought on by too many hours of looking at low-res, poorly tuned, or glare-ridden monitors, esp. graphics monitors. See {terminal illness}.
+%
+:{ rave on! }: imp.
+
+Sarcastic invitation to continue a {rave}, often by someone who wishes the raver would get a clue but realizes this is unlikely.
+%
+:{ RE }: /R·E/ n.
+
+Common spoken and written shorthand for {regexp}.
+%
+:{ real }: adj.
+
+Not simulated. Often used as a specific antonym to {virtual} in any of its jargon senses.
+%
+:{ real hack }: n.
+
+A {crock}. This is sometimes used affectionately; see {hack}.
+%
+:{ reaper }: n.
+
+A {prowler} that removes files. A file removed in this way is said to have been reaped.
+%
+:{ rectangle slinger }: n.
+
+See {polygon pusher}.
+%
+:{ recursion }: n.
+
+See {recursion}. See also {tail recursion}.
+%
+:{ rehi }:
+
+[IRC, MUD] “Hello again.” Very commonly used to greet people upon returning to an IRC channel after {channel hopping}.
+%
+:{ reincarnation, cycle of }: n.
+
+See {cycle of reincarnation}.
+%
+:{ relay rape }: n.
+
+The hijacking of a third party's unsecured mail server to deliver {spam}.
+%
+:{ reply }: n.
+
+See {followup}.
+%
+:{ RETI }: v.
+
+Syn. {RTI}
+%
+:{ return from the dead }: v.
+
+To regain access to the net after a long absence. Compare {person of no account}.
+%
+:{ ripoff }: n.
+
+Synonym for {chad}, sense 1.
+%
+:{ RL }: // n.
+
+[MUD community] Real Life. “Firiss laughs in RL” means that Firiss's player is laughing. Compare {meatspace}; oppose {VR}.
+%
+:{ robot }: n.
+
+See {bot}.
+%
+:{ root mode }: n.
+
+Syn. with {wizard mode} or wheel mode. Like these, it is often generalized to describe privileged states in systems other than OSes.
+%
+:{ RSN }: /R·S·N/ adj.
+
+See {Real Soon Now}.
+%
+:{ rusty iron }: n.
+
+Syn. {tired iron}. It has been claimed that this is the inevitable fate of {water MIPS}.
+%
+:{ S/N ratio }: // n.
+
+(also s/n ratio, s:n ratio). Syn. {signal-to-noise ratio}. Often abbreviated SNR.
+%
+:{ sandbender }: n.
+
+[IBM] A person involved with silicon lithography and the physical design of chips. Compare {ironmonger}, {polygon pusher}.
+%
+:{ scag }: vt.
+
+To destroy the data on a disk, either by corrupting the filesystem or by causing media damage. “That last power hit scagged the system disk.” Compare {scrog}, {roach}.
+%
+:{ scanno }: /skan´oh/ n.
+
+An error in a document caused by a scanner glitch, analogous to a typo or {thinko}.
+%
+:{ scary devil monastery }: n.
+
+Anagram frequently used to refer to the newsgroup alt.sysadmin.recovery, which is populated with characters that rather justify the reference.
+%
+:{ SCNR }: abbrev
+
+[common] Sorry, Could Not Resist. Normally used to semi-apologize for an obvious wisecrack.
+%
+:{ scream and die }: v.
+
+Syn. {cough and die}, but connotes that an error message was printed or displayed before the program crashed.
+%
+:{ screw }: n.
+
+[MIT] A {lose}, usually in software. Especially used for user-visible misbehavior caused by a bug or misfeature. This use has become quite widespread outside MIT.
+%
+:{ screwage }: /skroo'@j/ n.
+
+Like {lossage} but connotes that the failure is due to a designed-in misfeature rather than a simple inadequacy or a mere bug.
+%
+:{ scrozzle }: /skroz´l/ vt.
+
+Used when a self-modifying code segment runs incorrectly and corrupts the running program or vital data. “The damn compiler scrozzled itself again!”
+%
+:{ scruffies }: n.
+
+See {neats vs. scruffies}.
+%
+:{ search-and-destroy mode }: n.
+
+Hackerism for a noninteractive search-and-replace facility in an editor, so called because an incautiously chosen match pattern can cause {infinite} damage.
+%
+:{ SED }: /S·E·D/ n.
+
+[TMRC, from ‘Light-Emitting Diode’] Smoke-emitting diode. A {friode} that lost the war. See also {LER}. [Not to be confused with sed(1), the Unix stream editor. —ESR]
+%
+:{ See figure 1 }:
+
+Metaphorically, “Get stuffed.” From the title of a famous parody that can easily be found with a web search on this phrase; figure 1, in fact, depicts the digitus impudicus.
+%
+:{ segfault }: n.,vi.
+
+Syn. {segment}, {segmentation fault}.
+%
+:{ seggie }: /seg´ee/ n.
+
+[Unix] Shorthand for {segmentation fault} reported from Britain.
+%
+:{ segv }: /seg´vee/ n.,vi.
+
+Yet another synonym for {segmentation fault} (actually, in this case, ‘segmentation violation’).
+%
+:{ self-reference }: n.
+
+See {self-reference}.
+%
+:{ selvage }: /sel´v@j/ n.
+
+[from sewing and weaving] See {chad} (sense 1).
+%
+:{ semi-infinite }: n.
+
+See {infinite}.
+%
+:{ senior bit }: n.
+
+[IBM; rare] Syn. {meta bit}.
+%
+:{ sex changer }: n.
+
+Syn. {gender mender}.
+%
+:{ shar file }: /shar´ fi:l/ n.
+
+Syn. {sharchive}.
+%
+:{ shell out }: vi.
+
+[Unix] To {spawn} an interactive subshell from within a program (e.g., a mailer or editor). “Bang foo runs foo in a subshell, while bang alone shells out.”
+%
+:{ shitogram }: /shit´oh·gram/ n.
+
+A really nasty piece of email. Compare {nastygram}, {flame}.
+%
+:{ shriek }: n.
+
+See {excl}. Occasional CMU usage, also in common use among APL fans and mathematicians, especially category theorists.
+%
+:{ silicon }: n.
+
+Hardware, esp. ICs or microprocessor-based computer systems (compare {iron}). Contrasted with software. See also {sandbender}.
+%
+:{ skrog }: v.
+
+Syn. {scrog}.
+%
+:{ skulker }: n.
+
+Syn. {prowler}.
+%
+:{ slash }: n.
+
+Common name for the slant (‘/’, ASCII 0101111) character. See {ASCII} for other synonyms.
+%
+:{ slim }: n.
+
+A small, derivative change (e.g., to code).
+%
+:{ slurp the robot }:
+
+See {STR}.
+%
+:{ smash case }: vi.
+
+To lose or obliterate the uppercase/lowercase distinction in text input. “MS-DOS will automatically smash case in the names of all the files you create.” Compare {fold case}.
+%
+:{ smiley }: n.
+
+See {emoticon}.
+%
+:{ snail }: vt.
+
+To {snail-mail} something. “Snail me a copy of those graphics, will you?”
+%
+:{ sneaker }: n.
+
+An individual hired to break into places in order to test their security; analogous to {tiger team}. Compare {samurai}.
+%
+:{ sniff }: v.,n.
+
+1. To watch packets traversing a network. Most often in the phrase packet sniffer, a program for doing same. 2. Synonym for {poll}.
+%
+:{ snippage }: n.
+
+Synonym for {deletia}; the fact that something has been snipped when quoting is often indicated with the pseudo-HTML <snip>.
+%
+:{ sodium substrate }: n.
+
+Syn {salt substrate}.
+%
+:{ soft boot }: n.
+
+See {boot}.
+%
+:{ softcopy }: /soft´kop·ee/ n.
+
+[by analogy with hardcopy] A machine-readable form of corresponding hardcopy. See {bits}.
+%
+:{ software bloat }: n.
+
+The results of {second-system effect} or {creeping featuritis}. Commonly cited examples include ls(1), {X}, {BSD}, and {OS/2}.
+%
+:{ softwarily }: /soft·weir´i·lee/ adv.
+
+In a way pertaining to software. “The system is softwarily unreliable.” The adjective **‘softwary’ is not used. See {hardwarily}.
+%
+:{ softy }: n.
+
+[IBM] Hardware hackers' term for a software expert who is largely ignorant of the mysteries of hardware.
+%
+:{ spamvertize }: v.
+
+To advertise using {spam}. Pejorative.
+%
+:{ spangle }: n.
+
+[UK] The singular of {bells and whistles}. See also {spungle}.
+%
+:{ spell }: n.
+
+Syn. {incantation}.
+%
+:{ spin }: vi.
+
+Equivalent to {buzz}. More common among C and Unix programmers. See the discussion of ‘spinlock’ under {busy-wait}.
+%
+:{ splash screen }: n.
+
+[Mac users] Syn. {banner}, sense 3.
+%
+:{ stale pointer bug }: n.
+
+Synonym for {aliasing bug} used esp. among microcomputer hackers.
+%
+:{ stoppage }: /sto´p@j/ n.
+
+Extreme {lossage} that renders something (usually something vital) completely unusable. “The recent system stoppage was caused by a {fried} transformer.”
+%
+:{ stroke }: n.
+
+Common name for the slant (‘/’, ASCII 0101111) character. See {ASCII} for other synonyms.
+%
+:{ strudel }: n.
+
+Common (spoken) name for the at-sign (‘@’, ASCII 1000000) character. See {ASCII} for other synonyms.
+%
+:{ stubroutine }: /stuhb´roo·teen/ n.
+
+[contraction of stub subroutine] Tiny, often vacuous placeholder for a subroutine that is to be written or fleshed out later.
+%
+:{ stunning }: adj.
+
+Mind-bogglingly stupid. Usually used in sarcasm. “You want to code what in Ada? That's a ... stunning idea!”
+%
+:{ stupid-sort }: n.
+
+Syn. {bogo-sort}.
+%
+:{ sufficiently small }: adj.
+
+Syn. {suitably small}.
+%
+:{ suitable win }: n.
+
+See {win}.
+%
+:{ superuser }: n.
+
+[Unix] Syn. {root}, {avatar}. This usage has spread to non-Unix environments; the superuser is any account with all {wheel} bits on. A more specific term than {wheel}.
+%
+:{ swap space }: n.
+
+Storage space, especially temporary storage space used during a move or reconfiguration. “I'm just using that corner of the machine room for swap space.”
+%
+:{ swapped in }: n.
+
+See {swap}. See also {page in}.
+%
+:{ swapped out }: n.
+
+See {swap}. See also {page out}.
+%
+:{ sys-frog }: /sis´frog/ n.
+
+[the PLATO system] Playful variant of sysprog, which is in turn short for ‘systems programmer’.
+%
+:{ sysadmin }: /sis´ad·min/ n.
+
+Common contraction of ‘system admin’; see {admin}.
+%
+:{ sysape }: /sys´ayp/ n.
+
+A rather derogatory term for a computer operator; a play on {sysop} common at sites that use the banana hierarchy of problem complexity (see {one-banana problem}).
+%
+:{ systems jock }: n.
+
+See {jock}, sense 2.
+%
+:{ tail recursion }: n.
+
+If you aren't sick of it already, see {tail recursion}.
+%
+:{ talker system }: n.
+
+British hackerism for software that enables real-time chat or {talk mode}.
+%
+:{ tanked }: adj.
+
+Same as {down}, used primarily by Unix hackers. See also {hosed}. Popularized as a synonym for ‘drunk’ by Steve Dallas in the late lamented Bloom County comic strip.
+%
+:{ tayste }: /tayst/
+
+n. Two bits; also as {taste}. Syn. {crumb}, {quarter}. See {nybble}.
+%
+:{ tera- }: /te´r@/ pref.
+
+[SI] See {quantifiers}.
+%
+:{ terminal brain death }: n.
+
+The extreme form of {terminal illness} (sense 1). What someone who has obviously been hacking continuously for far too long is said to be suffering from.
+%
+:{ This can't happen }:
+
+Less clipped variant of {can't happen}.
+%
+:{ three-finger salute }: n.
+
+Syn. {Vulcan nerve pinch}.
+%
+:{ thumb }: n.
+
+The slider on a window-system scrollbar. So called because moving it allows you to browse through the contents of a text window in a way analogous to thumbing through a book.
+%
+:{ time sink }: n.
+
+[poss.: by analogy with heat sink or current sink] A project that consumes unbounded amounts of time.
+%
+:{ TINC }: //
+
+[Usenet] Abbreviation: “There Is No Cabal”. See {backbone cabal} and {NANA}, but note that this abbreviation did not enter use until long after the dispersal of the backbone cabal.
+%
+:{ TINLC }: //
+
+Abbreviation: “There Is No Lumber Cartel”. See {Lumber Cartel}. TINLC is a takeoff on {TINC}.
+%
+:{ TMRCie }: /tmerk´ee/, n.
+
+[MIT] A denizen of {TMRC}.
+%
+:{ TMTOWTDI }: /tim·toh'·dee/ abbrev.
+
+There's More Than One Way To Do It. This abbreviation of the official motto of {Perl} is frequently used on newsgroups and mailing lists related to that language.
+%
+:{ to a zeroth approximation }:
+
+[from to a first approximation] A really sloppy approximation; a wild guess. Compare {social science number}.
+%
+:{ toeprint }: n.
+
+A {footprint} of especially small size.
+%
+:{ TOFU }:
+
+Text Over, Fullquote Under; see {top-post}.
+%
+:{ toor }: n.
+
+The Bourne-Again Super-user. An alternate account with UID of 0, created on Unix machines where the root user has an inconvenient choice of shell. Compare {avatar}.
+%
+:{ topic group }: n.
+
+Syn. {forum}.
+%
+:{ TOPS-20 }: /tops·twen´tee/ n.
+
+See {TWENEX}.
+%
+:{ trash }: vt.
+
+To destroy the contents of (said of a data structure). The most common of the family of near-synonyms including {mung}, {mangle}, {scribble}, and {roach}.
+%
+:{ trawl }: v.
+
+To sift through large volumes of data (e.g., Usenet postings, FTP archives, or the Jargon File) looking for something of interest.
+%
+:{ treeware }: /tree´weir/ n.
+
+Printouts, books, and other information media made from pulped dead trees. Compare {tree-killer}, see {documentation}.
+%
+:{ troughie }: /traw´fee/ n.
+
+[British BBS scene] Synonym for {leech}, sense 1. The implied metaphor is that of a pig at a trough.
+%
+:{ turbo nerd }: n.
+
+See {geek}.
+%
+:{ turist }: /too´rist/ n.
+
+Var. sp. of {tourist}, q.v. Also in adjectival form, ‘turistic’. Poss. influenced by {luser} and ‘Turing’.
+%
+:{ twilight zone }: n. //
+
+[IRC] Notionally, the area of cyberspace where {IRC} operators live. An {op} is said to have a “connection to the twilight zone”.
+%
+:{ two pi }: quant.
+
+The number of years it takes to finish one's thesis. Occurs in stories in the following form: “He started on his thesis; 2 pi years later...”
+%
+:{ two-to-the-N }: quant.
+
+An amount much larger than {N} but smaller than {infinity}. “I have 2-to-the-N things to do before I can go out for lunch” means you probably won't show up.
+%
+:{ tyop }: n.
+
+[USENET] A deliberate typo for ‘typo’. Used in satirical reference. “There's a tyop in your posting”. Compare {grilf}, {hing}.
+%
+:{ UCE }: n.
+
+[abbrev., Unsolicited Commercial Email] A widespread, more formal term for email {spam}. Compare {UBE}, which may be superseding it.
+%
+:{ UDP }: /U·D·P/ v.,n.
+
+[Usenet] Abbreviation for {Usenet Death Penalty}. Common (probably now more so than the full form), and frequently verbed. Compare {IDP}.
+%
+:{ undefined external reference }: excl.
+
+[Unix] A message from Unix's linker. Used in speech to flag loose ends or dangling references in an argument or discussion.
+%
+:{ undocumented feature }: n.
+
+See {feature}.
+%
+:{ unswizzle }: v.
+
+See {swizzle}.
+%
+:{ unwind-protect }: n.
+
+[MIT: from the name of a LISP operator] A task you must remember to perform before you leave a place or finish a project. “I have an unwind-protect to call my advisor.”
+%
+:{ upthread }: adv.
+
+Earlier in the discussion (see {thread}), i.e., ‘above’. “As Joe pointed out upthread, ...” See also {followup}.
+%
+:{ urchin }: n.
+
+See {munchkin}.
+%
+:{ V7 }: /V´sev´en/ n.
+
+See {Version 7}.
+%
+:{ vaporware }: /vay´pr·weir/ n.
+
+Products announced far in advance of any release (which may or may not actually take place).
+%
+:{ var }: /veir/ or /var/ n.
+
+Short for variable. Compare {arg}, {param}.
+%
+:{ Venus flytrap }: n.
+
+[after the insect-eating plant] See {firewall machine}.
+%
+:{ verbage }: /ver´b@j/ n.
+
+A deliberate misspelling and mispronunciation of {verbiage} that assimilates it to the word ‘garbage’. Compare {content-free}. More pejorative than ‘verbiage’.
+%
+:{ vgrep }: /vee´grep/ v.,n.
+
+Visual grep. The operation of finding patterns in a file optically rather than digitally (also called an optical grep). See {grep}; compare {vdiff}.
+%
+:{ voice }: vt.
+
+To phone someone, as opposed to emailing them or connecting in {talk mode}. “I'm busy now; I'll voice you later.”
+%
+:{ VR }: // [MUD] n.
+
+On-line abbrev for {virtual reality}, as opposed to {RL}.
+%
+:{ walk }: n.,vt.
+
+Traversal of a data structure, especially an array or linked-list data structure in {core}. See also {codewalker}, {silly walk}, {clobber}.
+%
+:{ warez kiddies }: n.
+
+Even more derogatory way of referring to {warez d00dz}; refers to the fact that most warez d00dz are around the age of puberty. Compare {script kiddies}.
+%
+:{ warm boot }: n.
+
+See {boot}.
+%
+:{ weasel }: n.
+
+[Cambridge] A naive user, one who deliberately or accidentally does things that are stupid or ill-advised. Roughly synonymous with {loser}.
+%
+:{ web pointer }: n.
+
+A World Wide Web {URL}. See also {hotlink}, which has slightly different connotations.
+%
+:{ wedgie }: n.
+
+[Fairchild] A bug. Prob. related to {wedged}.
+%
+:{ wedgitude }: /wedj´i·t[y]ood/ n.
+
+The quality or state of being {wedged}.
+%
+:{ weeble }: /weeb´l/ interj.
+
+[Cambridge] Used to denote frustration, usually at amazing stupidity. “I stuck the disk in upside down.” “Weeble....”.
+%
+:{ whales }: n.
+
+See {like kicking dead whales down the beach}.
+%
+:{ white hat }:
+
+See {black hat}.
+%
+:{ whizzy }: adj.
+
+(alt.: wizzy) [Sun] Describes a {cuspy} program; one that is feature-rich and well presented.
+%
+:{ WIBNI }: // n.
+
+[Bell Labs: Wouldn't It Be Nice If] What most requirements documents and specifications consist entirely of. Compare {IWBNI}.
+%
+:{ wild side }:
+
+The public or uncontrolled side of a {firewall machine}.
+%
+:{ win big }: vi.
+
+To experience serendipity. “I went shopping and won big; there was a 2-for-1 sale.” See {big win}.
+%
+:{ win win }: excl.
+
+Expresses pleasure at a {win}.
+%
+:{ windoid }: n.
+
+In the Macintosh world, a style of window with much less adornment (smaller or missing title bar, zoom box, etc.) than a standard window.
+%
+:{ Windoze }: /win´dohz/ n.
+
+See {Microsloth Windows}. (Also Losedoze.)
+%
+:{ winkey }: n.
+
+(alt.: winkey face) See {emoticon}.
+%
+:{ winnage }: /win'@j/ n.
+
+The situation when a lossage is corrected, or when something is winning.
+%
+:{ Wintel }: n.
+
+Microsoft Windows plus Intel — the tacit alliance that dominated desktop computing in the 1990s. After 1999 it began to break up under pressure from {Linux}; see {Lintel}.
+%
+:{ wired }: n.
+
+See {hardwired}.
+%
+:{ within delta of }: adj.
+
+See {delta}.
+%
+:{ within epsilon of }: adj.
+
+See {epsilon}.
+%
+:{ wizardly }: adj.
+
+Pertaining to wizards. A wizardly {feature} is one that only a wizard could understand or use properly.
+%
+:{ wok-on-the-wall }: n.
+
+A small microwave dish antenna used for cross-campus private network circuits, from the obvious resemblance between a microwave dish and the Chinese culinary utensil.
+%
+:{ wound around the axle }: adj.
+
+In an infinite loop. Often used by older computer types.
+%
+:{ wugga wugga }: /wuh´g@ wuh´g@/ n.
+
+Imaginary sound that a computer program makes as it labors with a tedious or difficult task.{grind} (sense 4).
+%
+:{ XOFF }: /X·of/ n.
+
+Syn. {control-S}.
+%
+:{ XON }: /X·on/ n.
+
+Syn. {control-Q}.
+%
+:{ xref }: /X´ref/ v.,n.
+
+Hackish standard abbreviation for cross-reference.
+%
+:{ YA- }: abbrev.
+
+[Yet Another] In hackish acronyms this almost invariably expands to {Yet Another}, following the precedent set by Unix yacc(1) (Yet Another Compiler-Compiler). See {YABA}.
+%
+:{ yellow card }: n.
+
+See {green card}.
+%
+:{ YMMV }: // cav.
+
+Abbreviation for {Your mileage may vary} common on Usenet.
+%
+:{ zbeba }: n.
+
+[USENET] The word ‘moron’ in {rot13}. Used to describe newbies who are behaving with especial cluelessness.
+%
+:{ zero-content }: adj.
+
+Syn. {content-free}.
+%
+:{ zipperhead }: n.
+
+[IBM] A person with a closed mind.
+%
+:{ zorkmid }: /zork´mid/ n.
+
+The canonical unit of currency in hacker-written games. This originated in {Zork} but has spread to {nethack} and is referred to in several other games.
